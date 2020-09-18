@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSnackbarDemo</string>
+
+    <!--activity_snackbar.xml-->
+    <string name="simple_snackbar">SIMPLE SNACKBAR</string>
+    <string name="snackbar_with_action">SNACKBAR WITH ACTION</string>
+    <string name="snackbar_with_custom_view">SNACKBAR WITH CUSTOM VIEW</string>
+
+    <!--custom_snackbar.xml-->
+    <string name="no_external_storage_available">No external storage available</string>
+
+</resources>

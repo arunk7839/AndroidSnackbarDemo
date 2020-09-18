@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--margin-->
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+
+    <!--padding-->
+    <dimen name="padding_12dp">12dp</dimen>
+
+    <!--textsize-->
+    <dimen name="textsize_15sp">15sp</dimen>
+</resources>
